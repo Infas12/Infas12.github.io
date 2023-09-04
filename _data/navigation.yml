@@ -6,6 +6,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Projects"
+    url: "/#-Projects"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
