@@ -30,10 +30,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    [SWheg: A Wheel-Leg Transformable Robot with 
-    Minimalist Actuator Realization](https://arxiv.org/abs/2210.15126)
+  [SWheg: A Wheel-Leg Transformable Robot with 
+  Minimalist Actuator Realization](https://arxiv.org/abs/2210.15126)
 
-    C. Dai\*, **X. Liu**\*, J, Zhou\*, Z. Liu, Z. Zheng, Z. Jia, *Under review*
+  C. Dai\*, **X. Liu**\*, J, Zhou\*, Z. Liu, Z. Zheng, Z. Jia, *Under review*
   </div>
 </div>
 
@@ -44,8 +44,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    [SWhegPro: A Novel Robust Wheel-Leg Transformable Robot](https://ieeexplore.ieee.org/abstract/document/10011955)
-    Cunxi Dai, **Xiaohan Liu**, Jianxiang Zhou, Zhengtao Liu, Zheng Zhu and Zhenzhong Jia, **ROBIO 2022**
+  [SWhegPro: A Novel Robust Wheel-Leg Transformable Robot](https://ieeexplore.ieee.org/abstract/document/10011955)
+  Cunxi Dai, **Xiaohan Liu**, Jianxiang Zhou, Zhengtao Liu, Zheng Zhu and Zhenzhong Jia, **ROBIO 2022**
   </div>
 </div>
 
@@ -62,7 +62,7 @@ Robot with Minimal Actuator Realization](https://ieeexplore.ieee.org/abstract/do
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    NMPC controller for Wheel-leg robot,[[video](https://www.bilibili.com/video/BV1Fp4y177D5/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)]
+  NMPC controller for Wheel-leg robot,[[video](https://www.bilibili.com/video/BV1Fp4y177D5/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)]
   </div>
 </div>
 
