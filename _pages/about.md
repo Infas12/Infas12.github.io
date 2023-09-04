@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/SWhegPro_500x192.png' alt="sym" width="100%">
+      <img src='images/SWhegPro_500x192.png' alt="sym" width="75%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -58,7 +58,7 @@ Robot with Minimal Actuator Realization](https://ieeexplore.ieee.org/abstract/do
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/WheelLeg_500x294.png' alt="sym" width="100%">
+      <img src='images/WheelLeg_500x294.png' alt="sym" width="75%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -69,7 +69,7 @@ Robot with Minimal Actuator Realization](https://ieeexplore.ieee.org/abstract/do
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/DeltaHopper_500x273.png' alt="sym" width="100%">
+      <img src='images/DeltaHopper_500x273.png' alt="sym" width="75%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
