@@ -157,6 +157,20 @@ I am broadly interested in robotics planning and control, and I hope to focus on
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/CheetahSeven_500x238.png' alt="sym" width="85%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  <font size=4>Cheetah Seven</font>
+
+  DND Character, Warforged (quadrupedal), level 7 clockwork sorcerer.
+
+  </div>
+</div>
 
 
 # 🎖 Honors and Awards
