@@ -99,20 +99,53 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
   </div>
   <div class='paper-box-text' markdown="1">
   
-  <font size=4>Robomaster Teach Pendant</font>
+  <font size=4>RoboMaster Teach Pendant</font>
 
-  A Visual-SLAM based teach pendant for Robomaster 'engineer' robot. 
+  A Visual-SLAM based teach pendant for Robomaster 'Engineer' robot. 
   
   [[video1](https://www.bilibili.com/video/BV1VM4y1p7JX/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)] [[video2](https://www.bilibili.com/video/BV1Uu411J7pJ/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)]
 
   </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2021.08*, Robomaster 2021 University Championship National First Prize(Top 16)
-- *2021*, The Undergraduate  Training Program for Innovation and Entrepreneurship Funding (National level)
-- *2023.08*, Robomaster 2023 University Championship National First Prize  (Top 16)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/Robomaster2021_500x196.png' alt="sym" width="85%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  <font size=4>RoboMaster 'Hero' robot and 'Engineer' robot</font>
 
-# 📖 Educations
+  Competition robots designed for Robomaster 2021 season. I was responsible for the embedded system software development.
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/OculusROS_500x343.png' alt="sym" width="85%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  <font size=4>Oculus-ROS</font>
+
+  ROS Interface for Oculus Quest 2 based on the ROS# Unity plugin and Oculus Unity integration. 
+
+  </div>
+</div>
+
+
+
+# 🎖 Honors and Awards
+- *2021.08*, RoboMaster 2021 University Championship National First Prize(Top 16)
+- *2021*, The Undergraduate  Training Program for Innovation and Entrepreneurship Funding (National level)
+- *2023.08*, RoboMaster 2023 University Championship National First Prize  (Top 16)
+
+# 📖 Education
 - *2023.08 - now*, M.S in Robotics, Carnegie Mellon University, Pittsburgh. 
 - *2019.09 - 2023.06*, B.Eng. in Robotics, Southern University of Science and Technology, Shenzhen. 
