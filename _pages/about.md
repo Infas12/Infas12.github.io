@@ -103,7 +103,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
   A Visual-SLAM based teach pendant for Robomaster 'engineer' robot. 
   
-  [[video1](https://www.bilibili.com/video/BV1VM4y1p7JX/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)] | [[video2](https://www.bilibili.com/video/BV1Uu411J7pJ/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)]
+  [[video1](https://www.bilibili.com/video/BV1VM4y1p7JX/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)] [[video2](https://www.bilibili.com/video/BV1Uu411J7pJ/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)]
 
   </div>
 </div>
