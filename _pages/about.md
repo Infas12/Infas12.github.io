@@ -23,8 +23,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 # 📝 Publications 
 
-
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
