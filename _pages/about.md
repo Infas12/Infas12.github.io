@@ -32,9 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-
-  ### SWhegPro: A Novel Robust Wheel-Leg Transformable Robot 
-
+  <font size=4>SWhegPro: A Novel Robust Wheel-Leg Transformable Robot</font>
   Cunxi Dai, **Xiaohan Liu**, Jianxiang Zhou, Zhengtao Liu, Zheng Zhu and Zhenzhong Jia, **ROBIO 2022**  [[IEEE](https://ieeexplore.ieee.org/abstract/document/10011955)]
   
   </div>
@@ -48,7 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
   </div>
   <div class='paper-box-text' markdown="1" width="75%">
 
-  ### SWheg: A Wheel-Leg Transformable Robot with Minimalist Actuator Realization
+  <font size=4>SWheg: A Wheel-Leg Transformable Robot with Minimalist Actuator Realization</font>
   C. Dai\*, **X. Liu**\*, J, Zhou\*, Z. Liu, Z. Zheng, Z. Jia, **ICARM 2022**
   [[arxiv](https://arxiv.org/abs/2210.15126)]
 
@@ -66,7 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
   </div>
   <div class='paper-box-text' markdown="1">
   
-  ### NMPC controller for Wheel-leg robot 
+  <font size=4>NMPC controller for Wheel-leg robot</font>
 
   A nonlinear model predictive controller based on ocs2 and ros-control. 
   [[video](https://www.bilibili.com/video/BV1Fp4y177D5/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)]
@@ -77,12 +75,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/DeltaHopper_500x274.png' alt="sym" width="75%">
+      <img src='images/DeltaHopper_500x274.png' alt="sym" width="85%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
   
-  ### 3-Dof Hopping controller for Delta Hopper Robot
+  <font size=4>3-Dof Hopping controller for Delta Hopper Robot</font>
 
   A hopping controller for CMU GOAT robotic leg. The robot can jump in all directions at desired height and velocity when its orientation is constrained.
 
@@ -92,12 +90,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/TeachPendant_500x277.png' alt="sym" width="75%">
+      <img src='images/TeachPendant_500x277.png' alt="sym" width="85%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
   
-  ### Robomaster Teach Pendant
+  <font size=4>Robomaster Teach Pendant</font>
 
   A Visual-SLAM based teach pendant for Robomaster 'engineer' robot. [[video1](https://www.bilibili.com/video/BV1VM4y1p7JX/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)] [[video2](https://www.bilibili.com/video/BV1Uu411J7pJ/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)]
 
