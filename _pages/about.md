@@ -77,6 +77,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <img src='images/UndergradThesis.png' alt="sym" width="85%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  <font size=4>RL based whole-body operation controller for qurupedal robots</font>
+
+  My undergraduate thesis. We trained a controller to make the robot climb, lean on the wall, and use its forelimbs to press a point on the wall.
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <img src='images/DeltaHopper_500x274.png' alt="sym" width="85%">
     </div>
   </div>
