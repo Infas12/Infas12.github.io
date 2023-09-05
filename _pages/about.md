@@ -77,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/UndergradThesis_500x196.png' alt="sym" width="85%">
+      <img src='images/UndergradThesis_500x461.png' alt="sym" width="85%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
