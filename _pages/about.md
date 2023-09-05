@@ -23,19 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 # 📝 Publications 
 
-<div class='paper-box' width="75%">
-  <div class='paper-box-image' width="75%">
-    <div>
-      <img src='images/SWheg_500x326.png' alt="sym" width="75%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1" width="75%">
-  [SWheg: A Wheel-Leg Transformable Robot with 
-  Minimalist Actuator Realization](https://arxiv.org/abs/2210.15126)
 
-  C. Dai\*, **X. Liu**\*, J, Zhou\*, Z. Liu, Z. Zheng, Z. Jia, *Under review*
-  </div>
-</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -50,8 +38,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
   </div>
 </div>
 
-- [A Hybrid Wheel-Leg Transformable 
-Robot with Minimal Actuator Realization](https://ieeexplore.ieee.org/abstract/document/9959370), Zhengtao Liu, Cunxi Dai, **Xiaohan Liu**, Jianxiang Zhou, and Zhenzhong Jia, **ICARM 2022**
+<div class='paper-box' width="75%">
+  <div class='paper-box-image' width="75%">
+    <div>
+      <img src='images/SWheg_500x326.png' alt="sym" width="75%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1" width="75%">
+  [SWheg: A Wheel-Leg Transformable Robot with 
+  Minimalist Actuator Realization](https://arxiv.org/abs/2210.15126)
+
+  C. Dai\*, **X. Liu**\*, J, Zhou\*, Z. Liu, Z. Zheng, Z. Jia, **ICARM 2022**
+  </div>
+</div>
 
 
 # 🤖 Projects
