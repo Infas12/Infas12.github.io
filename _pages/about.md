@@ -86,7 +86,7 @@ I am broadly interested in robotics planning and control, and I hope to focus on
   </div>
   <div class='paper-box-text' markdown="1">
   
-  <font size=4>RL based whole-body operation controller for qurupedal robots</font>
+  <font size=4>RL based whole-body operation controller for quadrupedal robots</font>
 
   My undergraduate thesis. We trained a controller to make the robot climb, lean on the wall, and use its forelimbs to press a point on the wall.
 
