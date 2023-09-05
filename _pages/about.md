@@ -33,7 +33,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
   </div>
   <div class='paper-box-text' markdown="1">
   <font size=4>SWhegPro: A Novel Robust Wheel-Leg Transformable Robot</font>
-  Cunxi Dai, **Xiaohan Liu**, Jianxiang Zhou, Zhengtao Liu, Zheng Zhu and Zhenzhong Jia, **ROBIO 2022**  [[IEEE](https://ieeexplore.ieee.org/abstract/document/10011955)]
+  Cunxi Dai, **Xiaohan Liu**, Jianxiang Zhou, Zhengtao Liu, Zheng Zhu and Zhenzhong Jia, **ROBIO 2022**  
+  
+  [[IEEE](https://ieeexplore.ieee.org/abstract/document/10011955)]
   
   </div>
 </div>
@@ -48,6 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
   <font size=4>SWheg: A Wheel-Leg Transformable Robot with Minimalist Actuator Realization</font>
   C. Dai\*, **X. Liu**\*, J, Zhou\*, Z. Liu, Z. Zheng, Z. Jia, **ICARM 2022**
+
   [[arxiv](https://arxiv.org/abs/2210.15126)]
 
   </div>
@@ -67,6 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
   <font size=4>NMPC controller for Wheel-leg robot</font>
 
   A nonlinear model predictive controller based on ocs2 and ros-control. 
+  
   [[video](https://www.bilibili.com/video/BV1Fp4y177D5/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)]
 
   </div>
@@ -97,7 +101,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
   
   <font size=4>Robomaster Teach Pendant</font>
 
-  A Visual-SLAM based teach pendant for Robomaster 'engineer' robot. [[video1](https://www.bilibili.com/video/BV1VM4y1p7JX/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)] [[video2](https://www.bilibili.com/video/BV1Uu411J7pJ/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)]
+  A Visual-SLAM based teach pendant for Robomaster 'engineer' robot. 
+  
+  [[video1](https://www.bilibili.com/video/BV1VM4y1p7JX/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)] | [[video2](https://www.bilibili.com/video/BV1Uu411J7pJ/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)]
 
   </div>
 </div>
