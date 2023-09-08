@@ -53,7 +53,7 @@ I am broadly interested in robotics planning and control, and I hope to focus on
   <font size=4>SWheg: A Wheel-Leg Transformable Robot with Minimal Actuator Realization</font>
   C. Dai\*, **X. Liu**\*, J, Zhou\*, Z. Liu, Z. Zheng, Z. Jia
 
-  [[arxiv](https://arxiv.org/abs/2210.15126)] [[github](https://github.com/Infas12/SWheg_ROS)]
+  [[arxiv](https://arxiv.org/abs/2210.15126)] [[github](https://github.com/Infas12/SWheg_ROS)] [[video](https://www.youtube.com/watch?v=cJOswbhRO_A&ab_channel=CunxiDai)]
 
   </div>
 </div>
