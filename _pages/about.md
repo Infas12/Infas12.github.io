@@ -71,9 +71,9 @@ I am broadly interested in robotics planning and control, and I hope to focus on
   
   <font size=4>NMPC controller for Wheel-leg robot</font>
 
-  A nonlinear model predictive controller based on ocs2 and ros-control. 
+  A nonlinear model predictive controller based on ocs2 and ros-control. The floating-base dynamics was derived under the base frame, so there is no need for state estimation.
   
-  [[video](https://www.bilibili.com/video/BV1Fp4y177D5/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)]
+  [[video](https://www.bilibili.com/video/BV1Fp4y177D5/?spm_id_from=333.999.0.0&vd_source=eec7130c00a71582de81c4193d7fe763)] [[slide](https://drive.google.com/file/d/1aA7xrr9086Tum-89BSMfKSid8NKd_jPF/view)]
 
   </div>
 </div>
