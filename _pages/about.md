@@ -106,6 +106,9 @@ I am broadly interested in robotics planning and control, and I hope to focus on
 
   A hopping controller for CMU GOAT robotic leg. The robot can jump in all directions at desired height and velocity when its orientation is constrained.
 
+  [[video](https://www.bilibili.com/video/BV1Qu411P7DB/?vd_source=eec7130c00a71582de81c4193d7fe763)]
+
+
   </div>
 </div>
 
