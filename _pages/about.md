@@ -34,7 +34,10 @@ I am broadly interested in robotics planning and control, and I hope to focus on
   </div>
   <div class='paper-box-text' markdown="1">
   <font size=4>Wallbounce : Push wall to navigate with Contact-Implicit MPC</font>
-  **Xiaohan Liu**\*, Cunxi Dai\*, John Z. Zhang, Arun Bishop, Zachary Manchester and Ralph Hollis **Under Review**  
+  **Xiaohan Liu**\*, Cunxi Dai\*, John Z. Zhang, Arun Bishop, Zachary Manchester and Ralph Hollis 
+  
+  \[**Under Review**\] 
+  
   </div>
 </div>
 
@@ -46,7 +49,10 @@ I am broadly interested in robotics planning and control, and I hope to focus on
   </div>
   <div class='paper-box-text' markdown="1">
   <font size=4>Interactive Navigation with Adaptive Non-prehensile Mobile Manipulation</font>
-  Cunxi Dai\*, **Xiaohan Liu**\*, Koushil Sreenath, Zhongyu Li, and Ralph Hollis **Under Review**  
+  Cunxi Dai\*, **Xiaohan Liu**\*, Koushil Sreenath, Zhongyu Li, and Ralph Hollis 
+  
+  \[**Under Review**\] 
+
   </div>
 </div>
 
@@ -58,7 +64,10 @@ I am broadly interested in robotics planning and control, and I hope to focus on
   </div>
   <div class='paper-box-text' markdown="1">
   <font size=4>Wheelchair Maneuvering with a Single-Spherical-Wheeled Balancing Mobile Manipulator</font>
-  Cunxi Dai\*, **Xiaohan Liu**\*, Roberto Shu, and Ralph Hollis **Under Review**  
+  Cunxi Dai\*, **Xiaohan Liu**\*, Roberto Shu, and Ralph Hollis 
+
+  \[IROS 2024 Oral Presentation\] [[arxiv](https://arxiv.org/abs/2404.13206)] [[video](https://www.youtube.com/watch?v=IMpKqh37pDM)]
+
   </div>
 </div>
 
