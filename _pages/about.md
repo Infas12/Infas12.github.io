@@ -26,6 +26,42 @@ I am broadly interested in robotics planning and control, and I hope to focus on
 
 
 # 📝 Publications 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/Wallbounce_500x328.png' alt="sym" width="85%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  <font size=4>Wallbounce : Push wall to navigate with Contact-Implicit MPC</font>
+  **Xiaohan Liu**\*, Cunxi Dai\*, John Z. Zhang, Arun Bishop, Zachary Manchester and Ralph Hollis **Under Review**  
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/AdaptivePushing500x293.png' alt="sym" width="85%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  <font size=4>Interactive Navigation with Adaptive Non-prehensile Mobile Manipulation</font>
+  Cunxi Dai\*, **Xiaohan Liu**\*, Koushil Sreenath, Zhongyu Li, and Ralph Hollis **Under Review**  
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/ballbotwheelchair500x268.png' alt="sym" width="85%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  <font size=4>Wheelchair Maneuvering with a Single-Spherical-Wheeled Balancing Mobile Manipulator</font>
+  Cunxi Dai\*, **Xiaohan Liu**\*, Roberto Shu, and Ralph Hollis **Under Review**  
+  </div>
+</div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
