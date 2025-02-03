@@ -34,7 +34,7 @@ I am a master student of [Robotics Institute](https://www.ri.cmu.edu/) at Carneg
   <font size=4>Wallbounce : Push wall to navigate with Contact-Implicit MPC</font>
   **Xiaohan Liu**\*, Cunxi Dai\*, John Z. Zhang, Arun Bishop, Zachary Manchester and Ralph Hollis 
   
-  \[ICRA 2024 Accepted\] 
+  \[ICRA 2025 Accepted\] [[project website](https://cmushmoobot.github.io/Wallbounce/)] [[arxiv](https://arxiv.org/abs/2411.01387)] 
   
   </div>
 </div>
