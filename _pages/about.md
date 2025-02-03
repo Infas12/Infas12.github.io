@@ -21,8 +21,6 @@ redirect_from:
 
 I am a master student of [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University (CMU). Prior to that, I received my bachelor degree from Southern University of Science and Technology (SUSTech), with a major in Robotics Engineering. 
 
-I am broadly interested in robotics planning and control, and I hope to focus on legged systems in the future.
-
 
 
 # 📝 Publications 
@@ -36,7 +34,7 @@ I am broadly interested in robotics planning and control, and I hope to focus on
   <font size=4>Wallbounce : Push wall to navigate with Contact-Implicit MPC</font>
   **Xiaohan Liu**\*, Cunxi Dai\*, John Z. Zhang, Arun Bishop, Zachary Manchester and Ralph Hollis 
   
-  \[**Under Review**\] 
+  \[ICRA 2024 Accepted\] 
   
   </div>
 </div>
